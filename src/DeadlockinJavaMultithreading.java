@@ -25,7 +25,7 @@ public class DeadlockinJavaMultithreading {
 
 
 //Java program to illustrate Deadlock
-//in multithreading.
+//in multithreading
 class Util
 {
  // Util class to sleep a thread
@@ -41,3 +41,4 @@ class Util
      }
  }
 }
+
